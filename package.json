@@ -1,0 +1,9 @@
+{
+  "name": "react-native_practice-4",
+  "version": "1.0.0",
+  "description": "Lab 4. Getting data from API and saving to local data storage.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "SergeiKiss",
+  "license": "ISC"
+}
